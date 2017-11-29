@@ -1,0 +1,10 @@
+{
+  "name": "dotjs-linter",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "8.0.53",
+    "typescript": "2.6.1"
+  }
+}
